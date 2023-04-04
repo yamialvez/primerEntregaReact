@@ -1,0 +1,14 @@
+.contenCart {
+  position: relative;
+}
+.iconCart {
+  margin-top: 25px;
+  margin-right: 10px;
+}
+
+.countCart {
+  position: absolute;
+  right: 25px;
+  top: 40px;
+  color: aliceblue;
+}
